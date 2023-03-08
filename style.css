@@ -11,6 +11,10 @@ body {
   height: auto;
   margin: auto;
   background-color: aqua;
+  padding: 50px;
+}
+main{
+  width: 100%;
 }
 
 .grid {
@@ -29,7 +33,6 @@ body {
 
 #box3,
 #box7,
-#box10,
 #box11,
 #box12,
 #box15 {
